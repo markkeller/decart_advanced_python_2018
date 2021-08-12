@@ -1,0 +1,12 @@
+name: decart_adv_py-env
+channels:
+  - conda-forge
+dependencies:
+  - networkx
+  - numpy
+  - matplotlib
+  - ipython
+  - setuptools
+  - codecs
+  - pandas
+  - argparse
