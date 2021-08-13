@@ -11,3 +11,4 @@ twython
 utils
 sympy
 myvectors
+pymysql
