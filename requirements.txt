@@ -5,3 +5,9 @@ setuptools
 pandas
 argparse
 ipython
+credentials
+textblob
+twython
+utils
+sympy
+myvectors
