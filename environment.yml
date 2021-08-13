@@ -6,7 +6,6 @@ dependencies:
   - networkx
   - numpy
   - matplotlib
-  - ipython
   - setuptools
   - pandas
   - argparse
