@@ -7,6 +7,5 @@ dependencies:
   - matplotlib
   - ipython
   - setuptools
-  - codecs
   - pandas
   - argparse
