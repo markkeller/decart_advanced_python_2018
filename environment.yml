@@ -2,6 +2,7 @@ name: decart_adv_py-env
 channels:
   - conda-forge
 dependencies:
+  - python=3.6
   - networkx
   - numpy
   - matplotlib
